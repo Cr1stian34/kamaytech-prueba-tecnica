@@ -1,0 +1,15 @@
+/* .cardpost{
+    transition: transform 0.3s ease;
+}
+
+.cardpost:hover{
+    transform: scale(1.1);
+} */
+
+.btncreatepost{
+    transition: transform 0.3s ease;
+}
+
+.btncreatepost:hover{
+    transform: scale(1.1);
+}
